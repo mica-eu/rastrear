@@ -1,5 +1,5 @@
 {
-  "name": "rastrear",
+  "name": "@rastrear/rastrear",
   "version": "0.1.0",
   "description": "Rastreamento de objetos",
   "main": "index.js",
@@ -28,5 +28,13 @@
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0"
-  }
+  },
+  "keywords": [
+    "rastreio",
+    "rastrear",
+    "rastreamento",
+    "pacote",
+    "encomenda",
+    "correios"
+  ]
 }
